@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Poppins:wght@300;600;900&display=swap');
+
+*
+{
+    margin:0px;
+    padding:0px;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgba(0, 0, 78, 0.858);
+}
+.border
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.button{
+    display:flex;
+text-align: center;
+margin-left: 700px;
+
+}
+.but1,.but2{
+    font-size: 12px;
+}
+.para1
+{
+    color:white;
+    text-align: center;
+}
+h2 li a
+{
+    color:white;
+   align-content: center;
+   list-style: none;
+}
+.output
+{
+    text-align: center;
+    list-style: none;
+}
